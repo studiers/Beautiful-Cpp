@@ -4,3 +4,4 @@ BeautyCpp.vcxproj.filters
 BeautyCpp.vcxproj.user
 
 .vs/
+bin/

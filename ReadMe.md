@@ -1,0 +1,28 @@
+# Beauty Cpp
+- iostream
+- stringstream
+- namespace
+- function
+- new, delete
+- control (if)
+- repeat (for, while, range)
+- reference
+- class (inherit)
+- friend class
+- abstract
+- virtual
+- pure virtual
+- const
+- explicit
+- template
+- file
+- try throw catch
+- smart_ptr
+- auto
+- iterator
+- lambda
+- thread
+- rr reference
+- stl
+- decltype
+- meta programming (big..)

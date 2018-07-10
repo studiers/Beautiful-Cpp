@@ -22,7 +22,7 @@ auto main() -> int {
     map["HiHi!"] = "It'sTest";
 
     for (auto [a, b] : map)
-        std::cout << a << ' ' << b;
+        std::cout << a << ' ' << b << '\n';
     
     // binding from array
     int arr[2] = {1,2};

@@ -3,26 +3,33 @@
 - stringstream
 - namespace
 - function
+- assert
 - new, delete
 - control (if)
-- repeat (for, while, range)
+- repeat (for, while)
 - reference
+- const
 - class (inherit)
 - friend class
-- abstract
+- override
+- overload
 - virtual
 - pure virtual
-- const
 - explicit
+- inline
+- auto
 - template
 - file
 - try throw catch
-- smart_ptr
-- auto
 - iterator
+- operator overload
+- structured binding
+- smart_ptr
 - lambda
-- thread
+- type of trailing return
+- thread    
+- mutex (with 스핀락, 세마포어)
+- 여기 까지 하고 추가적인 것은 완전히 표준을 실행 할 수 있는 환경을 맞춘 후에 해야 겠다 (총총..)
 - rr reference
 - stl
-- decltype
 - meta programming (big..)

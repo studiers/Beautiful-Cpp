@@ -16,7 +16,7 @@ if (-not (Test-Path -Path ./bin/)) {
 
 ''
 
-g++ -o ./bin/test.exe $filename
+g++ -o ./bin/test.exe -std=c++17 $filename
 
 ./bin/test.exe
 
